@@ -12,3 +12,6 @@ There is a View Page line which will view the current status of database and upl
   ViewImage: This will view the image with image informations.
   DeleteImage: will delete the image from database as well as from web server filesystem.
   By default the index page will be displayed.
+
+NOTE** The Internal logic of applciation is written in such as way that DataBase information and image files are not synced up together which means
+       If image gets deleted from webserver manually(not from aplication) then the view will not have image in it but database info will be there.
