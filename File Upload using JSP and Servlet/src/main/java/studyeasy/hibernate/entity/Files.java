@@ -1,4 +1,4 @@
-package studyeasy.hibernate.entity;
+package org.studyeasy.hibernate.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
