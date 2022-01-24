@@ -1,6 +1,6 @@
 <%@page import="java.io.File"%>
 <%@page import="java.util.List"%>
-<%@page import="org.studyeasy.hibernate.entity.Files"  %>
+<%@page import="studyeasy.hibernate.entity.Files"  %>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>

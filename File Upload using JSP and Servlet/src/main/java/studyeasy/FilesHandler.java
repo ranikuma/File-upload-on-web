@@ -1,4 +1,4 @@
-package org.studyeasy;
+package studyeasy;
 
 import java.io.File;
 import java.io.IOException;
@@ -15,8 +15,8 @@ import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.FileUploadException;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
-import org.studyeasy.hibernate.DAO.FilesDAO;
-import org.studyeasy.hibernate.entity.Files;
+import studyeasy.hibernate.DAO.FilesDAO;
+import studyeasy.hibernate.entity.Files;
 
 @WebServlet("/FilesHandler")
 public class FilesHandler extends HttpServlet {

@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
-    <%@page import="org.studyeasy.hibernate.entity.*" %>
+    <%@page import="studyeasy.hibernate.entity.*" %>
 <!DOCTYPE html>
 <html>
 <head>

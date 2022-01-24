@@ -1,4 +1,4 @@
-package org.studyeasy.hibernate.DAO;
+package studyeasy.hibernate.DAO;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import javax.persistence.Persistence;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
-import org.studyeasy.hibernate.entity.Files;
+import studyeasy.hibernate.entity.Files;
 
 /**
  * @author ranit
